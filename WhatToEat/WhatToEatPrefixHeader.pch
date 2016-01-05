@@ -1,0 +1,22 @@
+//
+//  WhatToEatPrefixHeader.pch
+//  WhatToEat
+//
+//  Created by ConnorJ on 15/10/15.
+//  Copyright © 2015年 ConnorJ. All rights reserved.
+//
+
+#ifndef WhatToEatPrefixHeader_pch
+#define WhatToEatPrefixHeader_pch
+
+#define DOMAIN_NAME (@"http://api.meituan.com/group/v4/deal/select/city/1/cate/1?__skck=c8a86f38931f8d49dbaadc416db7b31e&__skcy=Fs8fOsvXDP5XbGhLQQE6FpSGY7c%3D&__skno=63BBDA74-0480-4EE7-A564-70FD75EB653F&__skts=1444875116.453545&__skua=5dfd2c4ce56495c22e07258185fdca62&__vhost=api.mobile.meituan.com&ci=1&client=iphone&hasGroup=true&limit=20&movieBundleVersion=100&msid=FB584EAC-506A-464E-94F5-B92FE9A114AF2015-10-15-10-11614&mypos=40.033006%2C116.416784&offset=0&poiFields=phone%2CmarkNumbers%2CcityId%2Caddr%2Clng%2ChasGroup%2CsubwayStationId%2Ccates%2CfrontImg%2CchooseSitting%2Cwifi%2CavgPrice%2Cstyle%2CfeatureMenus%2CavgScore%2Cname%2CparkingInfo%2Clat%2CcateId%2Cintroduction%2CshowType%2CareaId%2CdistrictId%2Cpreferent%2ClowestPrice%2CcateName%2CareaName%2CzlSourceType%2CcampaignTag%2Cktv%2Cdiscount%2CgroupInfo%2Cabstracts%2Crecommendation%2CiUrl%2CpayInfo%2CpayAbstracts%2CqueueStatus&sort=defaults&userid=58150601&utm_campaign=AgroupBgroupD100Ghomepage_category1_1__a1&utm_content=378CF2B8DF27872542325E17CD193FA2D3046119AA2B1D6AE5A461CF1D909F9A&utm_medium=iphone&utm_source=AppStore&utm_term=6.0.1&uuid=378CF2B8DF27872542325E17CD193FA2D3046119AA2B1D6AE5A461CF1D909F9A&version_name=6.0.1")
+
+#import "UIView+MyCategory.h"
+#import "AFNetworking.h"
+#import "AFNetworking.h"
+#import "Masonry.h"
+#import "ReactiveCocoa.h"
+#import "UIColor+Additions.h"
+
+
+#endif /* WhatToEatPrefixHeader_pch */
